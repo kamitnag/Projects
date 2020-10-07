@@ -1,7 +1,6 @@
-# 502 regression analysis
+# regression analysis
 
 # set up the environment
-setwd('C:/Users/spalic/OneDrive - Girls on the Run/Desktop/502 HW')
 library(readxl)
 library(sqldf)
 library(corrplot)
