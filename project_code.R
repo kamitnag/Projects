@@ -6,7 +6,7 @@ library(sqldf)
 library(corrplot)
 
 # import the data
-cereal<- read.csv('datasets_2021_5514_cereal.csv')
+cereal<- read.csv('cereal.csv')
 
 # DATA EXPLORATION
 
